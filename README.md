@@ -8,7 +8,7 @@ Install and have your USB Rubber Ducky working in less than 5 minutes.
 
 Clone the repo or download the repo as zip to get a local copy of the files. 
     
-      git clone https://github.com/dbisu/pico-ducky.git
+      git clone https://github.com/aathish-max/Rubber_Ducky
 
 Download CircuitPython for the Raspberry Pi Pico. *Updated to 7.0.0  https://circuitpython.org/board/raspberry_pi_pico/ 
 Plug the device into a USB port while holding the boot button. It will show up as a removable media device named RPI-RP2.
